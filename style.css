@@ -128,7 +128,7 @@ body::selection{
 
 .form-busca input {
     padding: 1rem;
-    width: 300px;
+    width: 250px;
     border: var(--verde-primario) solid 1px;
     border-radius: 5px;
     color: var(--verde-destaque);
@@ -1013,7 +1013,18 @@ body::selection{
     .rodape-direitos p{
         font-size: 15px;
     }
+
+    .hero-fdm h1{
+        font-size: 2.5rem;
+
+    }
+
+    .hero-resina h1{
+        font-size: 2.5rem;
+
+    }
 }
+
 
 
 
